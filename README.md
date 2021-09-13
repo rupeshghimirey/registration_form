@@ -1,3 +1,3 @@
-# Registration_form
+# registration_form
 
 This is a read me for registration form!
